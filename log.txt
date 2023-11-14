@@ -44,7 +44,7 @@ index 94640df,471ce86..e1087a8
      "metadata": {},
      "outputs": [],
      "source": [
- +    "# Mutiplication first!\n",
+ +    "# Multiplication first!\n",
 -     "(5 * 2) ** 3"
 +     "(3 * 4) ** 2"
      ]
